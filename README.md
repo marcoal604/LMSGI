@@ -13,4 +13,4 @@ Para otro párrafo dejar 2 espacios
 ---
 Para una línea horizontal poner 3 signos de menos  
 Ejemplo de hiperenlace(https://tutorialmarkdown.com/guia"enlace")
-![Alt]([/ruta/imagen.png](https://img.magnific.com/foto-gratis/fotografia-vertical-enfoque-superficial-lindo-cachorro-golden-retriever-sentado-terreno-hierba_181624-27259.jpg?semt=ais_hybrid&w=740&q=80)
+![Alt](https://images.squarespace-cdn.com/content/v1/57a2aeb1ff7c509ef76566c9/1580174975544-U5MTHMIVJKK6G8XBALLQ/laula-co-pdKPFBysSfA-unsplash.jpg)
