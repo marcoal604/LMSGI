@@ -11,5 +11,5 @@ Para otro párrafo dejar 2 espacios
 + para una
 + lista
 ---
-Para una línea horizontal poner 3 signos de menos
+Para una línea horizontal poner 3 signos de menos  
 Ejemplo de hiperenlace(https://tutorialmarkdown.com/guia"enlace")
