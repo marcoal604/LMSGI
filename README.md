@@ -10,3 +10,5 @@ Para otro párrafo dejar 2 espacios
 + mas
 + para una
 + lista
+---
+Para una línea horizontal poner 3 signos de menos
